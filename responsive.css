@@ -1,0 +1,575 @@
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+.banner-section{
+  height: 70vh;
+}
+
+.banner-text{
+  height: 70vh;
+  padding-left: 16px;
+}
+
+.image {
+    padding-left: 58px;
+    margin-top: 62px;
+}
+
+.image img {
+    height: 590px !important;
+    
+}
+
+.banner-text button {
+  margin-bottom: 20px;
+}
+
+.trusted-company {
+  padding: 70px 0px;
+}
+.apps-feature{
+  padding: 55px 0px;
+}
+.feature-img{
+  margin-top: 60px;
+}
+
+.feature-text h1 {
+  font-size: 26px;
+  width: 100%;
+}
+
+.feature-text p{
+  width: 100%;
+}
+.feature-1 {
+    margin-top: 25px;
+}
+.feature-details {
+    margin-left: -8px;
+}
+
+.feature-details p{
+  width: 100%;
+}
+
+
+
+
+.feature-2 {
+    margin-top: 25px;
+}
+.feature-details-2 {
+    margin-left: -8px;
+}
+
+.feature-details-2 p{
+  width: 100%;
+}
+
+.feature-3 {
+    margin-top: 25px;
+}
+.feature-details-3 {
+    margin-left: -8px;
+}
+
+.feature-details-3 p{
+  width: 100%;
+}
+
+.jackpot-heading h2 {
+  font-size: 26px;
+  padding-left: 16px;
+  margin-top: 40px;
+}
+.jackpot-details p {
+  width: 95%;
+  margin-left: 20px;
+}
+
+.jackpot-card{
+  margin-top: 75px;
+}
+
+.jackpot-card-details {
+    padding-left: 16px;
+}
+.jackpot-card-details-2 {
+    padding-left: 16px;
+}
+.jackpot-card-details-3 {
+    padding-left: 16px;
+}
+
+.designed-details{
+  margin-top: 40px;
+}
+.designed-details h2{
+  font-size: 26px;
+ margin-bottom: 20px;
+}
+
+.why-choose-us {
+    padding: 80px 0px 100px 0px;
+}
+.choose-our-app h2 {
+  font-size: 26px;
+  width: 50%;
+}
+.choose-our-app p {
+  width: 85%;
+}
+.group-1 .item-1{
+  padding: 0px 15px;
+}
+
+.unlimited{
+  text-align: center;
+   margin: auto;
+}
+
+.unlimited h2 {
+    margin: auto;
+    width: 42%;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.unlimited p{
+  margin: auto;
+  width: 55%;
+}
+
+.unlimited-feature{
+  background: #fff;
+  height: 68vh;
+  margin-bottom: 130px;
+
+}
+.our-features{
+  margin-top: 40px;
+}
+.our-features .row{
+  justify-content: space-around;
+}
+.our-features .item-2 p {
+  width: 101%;
+}
+
+.charge-card {
+  padding-bottom: 80px;
+}
+.charge-details h3 {
+  font-size: 26px;
+}
+
+.charge-details p {
+  width: 85%;
+}
+
+.card-1 {
+    margin-left: 65px;
+    margin-right: 10px;
+}
+.card-2 {
+    margin-right: 65px;
+    margin-left: 10px;
+}
+
+.testimonial-seection{
+  padding: 60px 0px;
+}
+.client-satisfaction h3{
+  font-size: 26px;
+}
+.client-satisfaction p {
+  width: 60%;
+}
+
+
+.message .corner {
+  left: 28px;
+}
+
+.user .col-md-7 {
+    text-align: left;
+    padding-left: 8px;
+}
+
+.FAQ h2{
+  font-size: 26px;
+}
+.FAQ p{
+  width: 73%;
+}
+
+.download{
+  height: 33vh;
+}
+.download-title h2{
+  font-size: 26px;
+}
+
+.download-img{
+  margin-top: 35px;
+}
+
+}
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ .navbar{
+  width: 131% !important;
+ }
+
+ .banner-section{
+  height: 160vh;
+  width: 136%;
+ }
+  
+  .banner-text{
+    height: 58vh;
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .text{
+    margin-left: 55px;
+  }
+  .banner-text h1{
+    font-size: 40px;
+  }
+ .banner-text p{
+  margin-bottom: 30px;
+ }
+  .banner-text button {
+    margin-bottom: 20px;
+  }
+
+  .image {
+    padding-left: 0px;
+    text-align: center;
+  }
+  .image img{
+    height: 680px !important;
+  }
+
+  .trusted-company{
+    width: 137%;
+    padding: 55px 0px 0px 0px;
+  }
+
+  .company-logo{
+    flex-direction: row-reverse;
+  }
+
+  .company-logo img{
+    margin-bottom: 40px;
+  }
+
+  .apps-feature{
+    width: 137%;
+  }
+
+  .app{
+    flex-direction: column-reverse;
+  }
+
+  .feature-text{
+    text-align: center;
+  }
+
+  .feature-text h1{
+    width: 100%;
+    font-size: 26px;
+  }
+
+  .feature-text p{
+    width: 100%;
+  }
+
+  .extra-class{
+    display: flex;
+  }
+
+
+.feature-1 img {
+  margin-bottom: 10px;
+}
+  .feature-details{
+    margin-left: 0px;
+  }
+ .feature-details h3{
+    font-size: 15px;
+   
+  }
+
+  .feature-details p{
+    width: 95%;
+  }
+
+
+ .feature-2 img {
+  margin-bottom: 10px;
+}
+
+  .feature-details-2{
+    margin-left: 0px;
+    padding-left: 8px;
+  }
+
+  .feature-details-2 h3{
+    font-size: 15px;
+    
+   
+  }
+  .feature-details-2 p{
+    width: 95%;
+
+  }
+
+
+.feature-3{
+  margin-left: 7px;
+}
+.feature-3 img {
+  margin-bottom: 10px;
+}
+.feature-details-3{
+    margin-left: 0px;
+    padding-left: 8px;
+  }
+
+ .feature-details-3 h3{
+    font-size: 15px;
+   
+  }
+
+  
+  .feature-details-3 p{
+    width: 95%;
+  }
+
+  .smart-jackpot{
+    width: 137%;
+  }
+  .jackpot-heading h2 {
+    padding-left: 0px;
+    font-size: 26px;
+    text-align: center;
+  }
+
+  .jackpot-details p{
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+  }
+
+  .jackpot-card {
+    margin-top: 50px;
+    text-align: center;
+}
+.jackpot-card-details {
+  padding-left: 0px;
+}
+
+.jackpot-card img {
+  margin-left: 0px;
+}
+
+.jackpot-card-details-2 {
+  padding-left: 0px;
+}
+
+.jackpot-card img {
+  margin-left: 0px;
+}
+.jackpot-card-details-3 {
+  padding-left: 0px;
+}
+
+.jackpot-card img {
+  margin-left: 0px;
+}
+
+.designed-section{
+  width: 137%;
+}
+
+.design{
+  flex-direction: column-reverse;
+}
+
+.designed-details{
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.designed-details h2 {
+  font-size: 26px;
+  text-align: center;
+  width: 100%;
+}
+.designed-details p{
+  text-align: center;
+}
+.object img{
+  margin-top: 25px;
+}
+.why-choose-us{
+  width: 137%;
+}
+.choose-our-app h2{
+  font-size: 26px;
+  width: 80%;
+}
+.choose-our-app p{
+  width: 100%;
+  margin-top:0px;
+}
+.group-1 {
+  margin: 30px 0px 0px 0px;
+}
+.item-1{
+  padding: 0px;
+  margin-top: 20px;
+}
+
+.unlimited-feature{
+  height: 140vh;
+  width: 137%;
+  background: #fff;
+  margin-bottom: 0px;
+}
+.unlimited{
+  margin-left: 0px;
+}
+.unlimited h2{
+  font-size: 26px;
+  width: 100%;
+  text-align: center;
+}
+.unlimited p{
+  width: 100%;
+  text-align: center;
+}
+.our-features{
+  margin-left: 0px;
+  text-align: center;
+}
+.our-features .item-2 p{
+  width: 100%;
+}
+.our-features button{
+  display: none;
+}
+.extra-charge{
+  width: 137%
+}
+.charge-details h3{
+  width: 100%;
+  font-size: 26px;
+}
+.charge-details p{
+  width: 100%;
+  padding-top: 6px;
+}
+
+.charge-details button{
+  margin-right: 15px;
+}
+.card-1{
+  margin-left: 36px;
+  margin-right: 36px;
+  margin-bottom: 60px;
+
+}
+.card-2 {
+    margin-right: 36px;
+    margin-left: 36px;
+}
+
+.testimonial-seection{
+  padding: 30px 0px;
+  width: 137%;
+}
+.client-satisfaction h3{
+  width: 100%;
+  font-size: 26px;
+}
+.client-satisfaction p{
+  padding-top: 12px;
+  width: 100%;
+}
+
+.user .col-md-4{
+  text-align: left;
+  width: 25%;
+}
+.user .col-md-7{
+  width: 26%;
+}
+
+.review-1{
+  margin-bottom: 20px;
+}
+.FAQ-section{
+  width: 137%;
+  padding: 40px 0px;
+}
+.FAQ h2{
+  font-size: 26px;
+}
+.FAQ p{
+  width: 100%;
+}
+.questions{
+  margin: 0px 10px;
+}
+
+.download{
+  width: 137%;
+  height: 32vh;
+  background: #fff;
+}
+.download-title{
+  margin-top: 30px;
+}
+
+.download-title h2{
+  font-size: 26px;
+  text-align: center;
+}
+.download-title p{
+  text-align: center;
+}
+.download-img .col-md-4{
+  width: 30%;
+}
+.download-img{
+  margin-left: 100px;
+}
+.footer-section{
+  padding: 35px 0px;
+  width: 137%;
+}
+}
